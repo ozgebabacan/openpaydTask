@@ -13,14 +13,14 @@ Undertake the following tasks on the application
 
 1. [List view] Add a loading animation on each launch card, -- DONE
    [List view] add a placeholder image if the image doesnt load/exist -- DONE
-   `src/app/launch-list/launch-list.component.html`
+   `src/app/launch-list/launch-list.component.html` -- DONE
 
-2. [List view] Make each launch card date a relative date eg: 23 days ago as in `list-example.jpg` -- DONE
-   `src/app/launch-list/launch-list.component.html`
+2. [List view] Make each launch card date a relative date eg: 23 days ago as in `list-example.jpg` 
+   `src/app/launch-list/launch-list.component.html` -- DONE
 
-3. [Details view] Develop the details screen to fit the wireframe specification `details-wireframe.jpg` -- PARTIALLY DONE. --I coulnd't the original images to lightbox settings. I have no time :(
+3. [Details view] Develop the details screen to fit the wireframe specification `details-wireframe.jpg` 
    Avoid code bloat where possible
-   `src/app/launch-details/launch-details.component.html`
+   `src/app/launch-details/launch-details.component.html` -- PARTIALLY DONE. --I coulnd't add the original images to lightbox settings. I have no time :(
 
 4. [Details view] Implement NgRx store for launch detail, using the same store and facade pattern as in launch list -- DONE
 
